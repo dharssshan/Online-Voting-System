@@ -1,0 +1,5 @@
+Narendra Modi,2
+Pawan Singh,0
+Rahul Gandhi,1
+Arvind Kejriwal,1
+Pinarayi Vijayan,0
