@@ -1,4 +1,11 @@
-Vishesh,Narendra Modi
-Harsh,Narendra Modi
-Abdul,Arvind Kejriwal
-Rohan,Rahul Gandhi
+Salman Khan,Osama Bin Laden
+Vijay,Mahatma Gandhi
+Ranbir Kapoor,Rehman Dakait
+Anjali,Rehman Dakait
+Narendra Modi,Mahatma Gandhi
+Karan Johar,Charlie kirk
+Karthik Aryan,Osama Bin Laden
+Sharadha Kapoor,Osama Bin Laden
+Kajol Devgan,Rehman Dakait
+Nayantara,Osama Bin Laden
+
